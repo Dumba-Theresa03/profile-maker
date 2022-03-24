@@ -5,9 +5,9 @@ import ProfileCard from './components/ProfileCard'
 function App() {
   const[allProfiles, setALLProfiles]=useState([
 {
-firstname:"Felix",
-lastname:"Dassah",
-email:"dassahfelix12@gmail.com",
+firstname:"Dumba",
+lastname:"Theresa",
+email:"theresa12@gmail.com",
 phone:"0554318132"
 }
 ])
